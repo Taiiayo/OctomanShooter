@@ -1,0 +1,9 @@
+C:\Users\Undermove\documents\visual studio 2015\Projects\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csprojResolveAssemblyReference.cache
+C:\Users\Undermove\documents\visual studio 2015\Projects\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csproj.GenerateResource.Cache
+C:\Users\Undermove\documents\visual studio 2015\Projects\Mole Shooter\Mole Shooter\bin\Debug\Octoman Shooter.exe.config
+C:\Users\Undermove\documents\visual studio 2015\Projects\Mole Shooter\Mole Shooter\bin\Debug\Octoman Shooter.exe
+C:\Users\Undermove\documents\visual studio 2015\Projects\Mole Shooter\Mole Shooter\bin\Debug\Octoman Shooter.pdb
+C:\Users\Undermove\documents\visual studio 2015\Projects\Mole Shooter\Mole Shooter\obj\Debug\Octoman_Shooter.OctomanShooter.resources
+C:\Users\Undermove\documents\visual studio 2015\Projects\Mole Shooter\Mole Shooter\obj\Debug\Octoman_Shooter.Properties.Resources.resources
+C:\Users\Undermove\documents\visual studio 2015\Projects\Mole Shooter\Mole Shooter\obj\Debug\Octoman Shooter.exe
+C:\Users\Undermove\documents\visual studio 2015\Projects\Mole Shooter\Mole Shooter\obj\Debug\Octoman Shooter.pdb
