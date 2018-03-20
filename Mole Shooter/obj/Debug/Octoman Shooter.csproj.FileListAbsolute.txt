@@ -19,3 +19,9 @@ C:\Users\Undermove\Documents\Visual Studio 2015\Projects\Octoman Shooter\Mole Sh
 D:\Users\Taiiayo\Octoman_Shooter\Mole Shooter\bin\Debug\Octoman Shooter.exe.config
 D:\Users\Taiiayo\Octoman_Shooter\Mole Shooter\obj\Debug\Octoman Shooter.exe
 D:\Users\Taiiayo\Octoman_Shooter\Mole Shooter\obj\Debug\Octoman Shooter.pdb
+D:\Users\Taiiayo\Octoman_Shooter\Mole Shooter\bin\Debug\Octoman Shooter.exe
+D:\Users\Taiiayo\Octoman_Shooter\Mole Shooter\bin\Debug\Octoman Shooter.pdb
+D:\Users\Taiiayo\Octoman_Shooter\Mole Shooter\obj\Debug\Octoman Shooter.csprojResolveAssemblyReference.cache
+D:\Users\Taiiayo\Octoman_Shooter\Mole Shooter\obj\Debug\Octoman_Shooter.OctomanShooter.resources
+D:\Users\Taiiayo\Octoman_Shooter\Mole Shooter\obj\Debug\Octoman_Shooter.Properties.Resources.resources
+D:\Users\Taiiayo\Octoman_Shooter\Mole Shooter\obj\Debug\Octoman Shooter.csproj.GenerateResource.Cache
